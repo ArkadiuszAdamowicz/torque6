@@ -7,7 +7,7 @@
 2. Open index.html in your browser.
 
 ### Demo
-You can view a live demo of the website here: https://github.com/ArkadiuszAdamowicz/troque6
+You can view a live demo of the website here: https://arkadiuszadamowicz.github.io/torque6/
 
 ### Graphics
 All graphics on this website were created using artificial intelligence from MidJourney.
